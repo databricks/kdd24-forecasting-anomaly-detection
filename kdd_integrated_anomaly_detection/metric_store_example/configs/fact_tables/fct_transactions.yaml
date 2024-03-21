@@ -1,0 +1,14 @@
+name: fct_transactions
+type: fact
+source: raw_transactions.csv
+columns:
+  - name: transaction_id
+    data_type: int
+  - name: customer_id
+    data_type: int
+  - name: ts
+    data_type: timestamp
+  - name: dim_payment_type
+    data_type: str
+  - name: m_total
+    data_type: float

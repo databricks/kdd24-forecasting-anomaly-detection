@@ -1,0 +1,14 @@
+name: dim_customers
+type: dim
+source: raw_customers.csv
+columns:
+  - name: customer_id
+    data_type: int
+  - name: dim_customer_name
+    data_type: str
+  - name: dim_customer_region
+    data_type: str
+  - name: dim_customer_birth_date
+    data_type: str
+  - name: dim_customer_joined_date
+    data_type: str

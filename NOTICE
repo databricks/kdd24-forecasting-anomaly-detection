@@ -1,0 +1,72 @@
+Copyright (2024) Databricks, Inc.
+
+This Software includes software developed at Databricks (https://www.databricks.com/) and its use is subject to the included LICENSE file.
+
+This Software contains code from the following open source projects, licensed under the Apache 2.0 license:
+
+mlflow/mlflow - https://github.com/mlflow/mlflow
+Copyright 2018 Databricks, Inc.  All rights reserved.
+License - https://github.com/mlflow/mlflow/blob/master/LICENSE.txt
+
+ray_project/ray - https://github.com/ray-project/ray 
+Copyright The Ray Authors
+License - https://github.com/ray-project/ray/blob/master/LICENSE 
+
+tensorflow/tensorflow - https://github.com/tensorflow/tensorflow 
+Copyright 2023 The Tensorflow Authors.  All rights reserved.
+License - https://github.com/tensorflow/tensorflow/blob/master/LICENSE 
+
+—
+
+This Software contains code from the following open source projects, licensed under the MIT license:
+
+facebook/prophet - https://github.com/facebook/prophet
+Copyright Facebook, Inc. and its affiliates
+License - https://github.com/facebook/prophet/blob/main/LICENSE 
+
+—
+
+This software contains code from the following open source projects, licensed under the BSD (3-clause) license:
+
+cloudpickle/cloudpickle - https://github.com/cloudpipe/cloudpickle 
+Copyright 2015 Cloudpickle contributors.
+Copyright 2012 Regents of the University of California.
+Copyright 2009 PiCloud, Inc. http://www.picloud.com.
+License - https://github.com/cloudpipe/cloudpickle/blob/master/LICENSE 
+
+numpy - https://github.com/numpy/numpy 
+Copyright 2005-2024 NumPy Developers
+License - https://github.com/numpy/numpy/blob/main/LICENSE.txt 
+
+pandas - https://github.com/pandas-dev/pandas 
+Copyright 2008-2011 AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
+License - https://github.com/pandas-dev/pandas/blob/main/LICENSE 
+
+ebay/ransyncoders - https://github.com/eBay/RANSynCoders
+Copyright eBay, Inc.  All rights reserved.
+License - https://github.com/eBay/RANSynCoders/blob/main/LICENSE 
+
+scipy/scipy - https://github.com/scipy/scipy
+Copyright 2001-2002 Enthought, Inc.
+Copyright 2003-2024, SciPy Developers
+License - https://github.com/scipy/scipy/blob/main/LICENSE.txt
+
+scikit-learn - https://github.com/scikit-learn/scikit-learn 
+Copyright 2007-2023 The scikit-learn developers
+License - 
+
+statsmodels - https://github.com/statsmodels/statsmodels 
+Copyright 2006 Jonathan E. Taylor. All rights reserved.
+Copyright 2006-2008 Scipy Developers. All rights reserved.
+Copyright 2009-2018 statsmodels Developers. All rights reserved.
+License - https://github.com/statsmodels/statsmodels/blob/main/LICENSE.txt 
+
+torch - https://github.com/pytorch/pytorch 
+…
+License - https://github.com/pytorch/pytorch/blob/main/LICENSE 
+
+apple/tensorflow_macos - https://github.com/apple/tensorflow_macos
+Copyright 2020 Apple.  All rights reserved.
+License - https://github.com/apple/tensorflow_macos/blob/master/LICENSE.txt 
+
+

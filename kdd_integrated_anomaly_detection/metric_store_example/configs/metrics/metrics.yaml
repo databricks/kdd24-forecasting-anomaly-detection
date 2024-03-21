@@ -1,0 +1,4 @@
+- name: num_transactions
+  definition: COUNT(transaction_id)
+- name: transaction_amount
+  definition: SUM(m_total)
